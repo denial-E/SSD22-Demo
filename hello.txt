@@ -1,1 +1,6 @@
 git hub demo
+  
+
+    the changes are in the other file. we have to add and commit and then we have to push.
+     
+      now this file is also changed.
